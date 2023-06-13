@@ -1,0 +1,23 @@
+
+
+
+
+lightgbm 
+matplotlib @ file:///Users/runner/miniforge3/conda-bld/matplotlib-suite_1678135628784/work
+numpy 
+opencv-python==4.6.0.66
+pandas==1.5.3
+Pillow
+PyQt5==5.12.3
+PyQt5_sip==4.19.18
+PyQtChart==5.12
+PyQtWebEngine==5.12.1
+qtconsole
+QtPy
+scikit-image==0.20.0
+scikit-learn @ file:///Users/runner/miniforge3/conda-bld/scikit-learn_1679676035492/work
+scipy==1.10.1
+
+
+
+
